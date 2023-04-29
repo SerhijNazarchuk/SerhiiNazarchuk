@@ -1,9 +1,11 @@
 ![Header](https://github.com/SerhijNazarchuk/SerhiiNazarchuk/blob/main/assets/1111.jpg)
 
-### I am a QA Manual Engineer.
-### My main strengths are attention to detail, responsibility, organization, punctuality, creativity, and the ability to work effectively. I want to be a part of an experienced, growing team where I can develop my professional skills and add value to the company. And I am sure that my knowledge and practical skills obtained during the period of study and internship will help me in this.
+I am a QA Manual Engineer.
 
-### My CV 
+My main strengths are attention to detail, responsibility, organization, punctuality, creativity, and the ability to work effectively. I want to be a part of an experienced, growing team where I can develop my professional skills and add value to the company. And I am sure that my knowledge and practical skills obtained during the period of study and internship will help me in this.
+
+My CV 
+
 [Link to my CV](https://drive.google.com/file/d/1r1qPu6PBw40GEMVx17elAwtBxXNY7mM5/view?usp=share_link)
 
 Languages and Tools
@@ -24,5 +26,7 @@ Languages and Tools
 ![TestRail](https://img.shields.io/badge/-TestRail-050505?style=for-the-badge&logo=TestRail&logoColor=E5F1E8)
 ![Mantis](https://img.shields.io/badge/-Mantis-050505?style=for-the-badge&logo=Mantis&logoColor=E5F1E8)
 ![TestLink](https://img.shields.io/badge/-TestLink-050505?style=for-the-badge&logo=TestLink&logoColor=E5F1E8)
+
+Testing Documentation
 
 Follow Me
