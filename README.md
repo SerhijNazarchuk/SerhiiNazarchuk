@@ -28,11 +28,16 @@ My main strengths are attention to detail, responsibility, organization, punctua
 ![TestLink](https://img.shields.io/badge/-TestLink-050505?style=for-the-badge&logo=TestLink&logoColor=E5F1E8)
 
 ### Testing Documentation
--[Testplans]()
--[Checklists]()
--[Test Cases]()
--[Bug Reports]()
--[SQL Queries]()
--[Postman Collections]()
+- [Testplans](https://github.com/SerhijNazarchuk/TestPlans)
+
+- [Checklists](https://github.com/SerhijNazarchuk/Checklists)
+
+- [Test Cases](https://github.com/SerhijNazarchuk/TestCases)
+
+- [Bug Reports](https://github.com/SerhijNazarchuk/BugReports)
+
+- [SQL Queries](https://github.com/SerhijNazarchuk/SQL)
+
+- [Postman Collections](https://github.com/SerhijNazarchuk/Postman)
 
 Follow Me
