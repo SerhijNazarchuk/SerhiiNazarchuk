@@ -40,4 +40,14 @@ My main strengths are attention to detail, responsibility, organization, punctua
 
 - [Postman Collections](https://github.com/SerhijNazarchuk/Postman)
 
+### Licenses & certifications
+
+
+- Certificate of successful completion of the Upper-intermediate English course [![Englishdom](https://img.shields.io/badge/-ENGLISHDOM-B524C9?style=social=appveyor)](https://drive.google.com/file/d/15wm60A-89fv9iUq4C4eiM4FGL8Y57QiP/view?usp=share_link)
+- Certificate of completion of the "Web Application Security Testing" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](https://drive.google.com/file/d/1CG6oljMGEMDi3pTc77-W-AV1wacZFblC/view?usp=share_link)
+- Certificate of successful completion of the QA course at Binary Studio Academy [![Binary Studio](https://img.shields.io/badge/-BINARY_STUDIO-21C1D7?style=social=appveyor)](https://drive.google.com/file/d/1xA68ghMPEJbGzsViU1X7Qq-Z7nVbTqRO/view?usp=share_link)
+- QA Manual Camp Internship Certificate [![Techstack](https://img.shields.io/badge/-TECHSTACK_LTD-040405?style=social=appveyor)](https://drive.google.com/file/d/1aXb01H_RIfGTDtQwkgUST8F49XwxkK4F/view?usp=share_link)
+- Certificate of successfull completion of the "The Fundamentals of Software Testing" course [![QATestlab](https://img.shields.io/badge/-QATESTLAB-04086F?style=social=appveyor)](https://drive.google.com/file/d/1MsADgWAhDYeBYmCEg1abRd83IWAExXV-/view?usp=share_link)
+- IT Switch Course Training Certificate [![GlobalLogic](https://img.shields.io/badge/-GLOBALLOGIC-DC6A2D?style=social=appveyor)](https://drive.google.com/file/d/1EvdJVemX0o880FE0xH3WaCnkJjQ32YPk/view?usp=share_link)
+
 Follow Me
