@@ -50,3 +50,7 @@ My main strengths are attention to detail, responsibility, organization, punctua
 - IT Switch Course Training Certificate [![GlobalLogic](https://img.shields.io/badge/-GLOBALLOGIC-DC6A2D?style=social=appveyor)](https://drive.google.com/file/d/1EvdJVemX0o880FE0xH3WaCnkJjQ32YPk/view?usp=share_link)
 
 ### Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-050505?style=for-the-badge&logo=LinkedIn&logoColor=1379FB)](https://www.linkedin.com/in/serhii-nazarchuk)
+[![Telegram](https://img.shields.io/badge/-Telegram-050505?style=for-the-badge&logo=Telegram)](https://t.me/SerhiiNazarchuk)
+
