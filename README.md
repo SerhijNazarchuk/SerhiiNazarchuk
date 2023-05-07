@@ -54,4 +54,4 @@ My main strengths are attention to detail, responsibility, organization, punctua
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-050505?style=for-the-badge&logo=LinkedIn&logoColor=1379FB)](https://www.linkedin.com/in/serhii-nazarchuk)
 [![Telegram](https://img.shields.io/badge/-Telegram-050505?style=for-the-badge&logo=Telegram)](https://t.me/SerhiiNazarchuk)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhijNazarchuk&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhijNazarchuk&count_private=true&show_icons=true&theme=transparent)
