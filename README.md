@@ -13,6 +13,7 @@ My main strengths are attention to detail, responsibility, organization, punctua
 ![Jira](https://img.shields.io/badge/-Jira-050505?style=for-the-badge&logo=Jira&logoColor=1511A4)
 ![Postman](https://img.shields.io/badge/-Postman-050505?style=for-the-badge&logo=Postman&logoColor=DF7E10)
 ![Swagger](https://img.shields.io/badge/-Swagger-050505?style=for-the-badge&logo=Swagger&logoColor=11AB32)
+![Git](https://img.shields.io/badge/-Git-050505?style=for-the-badge&logo=Git&logoColor=FB3A13)
 ![GitHub](https://img.shields.io/badge/-GitHub-050505?style=for-the-badge&logo=GitHub&logoColor=E5F1E8)
 ![Trello](https://img.shields.io/badge/-Trello-050505?style=for-the-badge&logo=Trello&logoColor=CAC6EE)
 ![Asana](https://img.shields.io/badge/-Asana-050505?style=for-the-badge&logo=Asana&logoColor=E53351)
