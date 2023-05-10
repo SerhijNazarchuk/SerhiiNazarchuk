@@ -42,7 +42,6 @@ My main strengths are attention to detail, responsibility, organization, punctua
 - [Postman Collections](https://github.com/SerhijNazarchuk/Postman)
 
 ### Licenses & certifications
-
 - Certificate of successful completion of the English language (level B2) course [![Campster](https://img.shields.io/badge/-CAMPSTER-6210BF?style=social=appveyor)](https://drive.google.com/file/d/1qteiDjEwNl4QiQnR09hfPL5wO3TuOLk-/view?usp=share_link)
 - Certificate of successful completion of the Upper-Intermediate English course [![Englishdom](https://img.shields.io/badge/-ENGLISHDOM-B524C9?style=social=appveyor)](https://drive.google.com/file/d/15wm60A-89fv9iUq4C4eiM4FGL8Y57QiP/view?usp=share_link)
 - Certificate of completion of the "Web Application Security Testing" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](https://drive.google.com/file/d/1CG6oljMGEMDi3pTc77-W-AV1wacZFblC/view?usp=share_link)
@@ -57,3 +56,5 @@ My main strengths are attention to detail, responsibility, organization, punctua
 [![Telegram](https://img.shields.io/badge/-Telegram-050505?style=for-the-badge&logo=Telegram)](https://t.me/SerhiiNazarchuk)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerhijNazarchuk&count_private=true&show_icons=true&theme=transparent)
+
+[def]: https://drive.google.com/file/d/1qteiDjEwNl4QiQnR09hfPL5wO3TuOLk-/view?usp=share_link
