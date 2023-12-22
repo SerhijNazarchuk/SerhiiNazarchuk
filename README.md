@@ -2,7 +2,7 @@
 
 ### I am a QA Manual Engineer.
 
-My main strengths are attention to detail, responsibility, organization, punctuality, creativity, and the ability to work effectively. I want to be a part of an experienced, growing team where I can develop my professional skills and add value to the company. And I am sure that my knowledge and practical skills obtained during the period of study and internship will help me in this.
+My main strengths are attention to detail, responsibility, organization, punctuality, creativity, and the ability to work effectively. I admire the work of the QA Engineer.
 
 ### My CV 
 
