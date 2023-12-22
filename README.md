@@ -42,8 +42,8 @@ My main strengths are attention to detail, responsibility, organization, punctua
 - [Postman Collections](https://github.com/SerhijNazarchuk/Postman)
 
 ### Licenses & certifications
-- Certificate of completion of the "HTML5 & CSS3 Starter" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](hhttps://drive.google.com/file/d/19Ta4teLzg7BFQj_0fq-1Hv7OyJMhvRpf/view?usp=share_link)
-- Certificate of completion of the "SQL Essential" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](https://drive.google.com/file/d/1m3-1B995xk8Lh-lCMd5oq3H3PqStxXgD/view?usp=share_link)
+- Certificate of completion of the "HTML5 & CSS3 Starter" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](hhttps://drive.google.com/file/d/19Ta4teLzg7BFQj_0fq-1Hv7OyJMhvRpf/view?usp=sharing)
+- Certificate of completion of the "SQL Essential" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](https://drive.google.com/file/d/1m3-1B995xk8Lh-lCMd5oq3H3PqStxXgD/view?usp=sharing)
 - Certificate of successful completion of the English language - level B2 course [![Campster](https://img.shields.io/badge/-CAMPSTER-6210BF?style=social=appveyor)](https://drive.google.com/file/d/1Vg56iYKQFOoTrBqqi-AocuR5qGqmSwcB/view?usp=share_link)
 - Certificate of successful completion of the Upper-Intermediate English course [![Englishdom](https://img.shields.io/badge/-ENGLISHDOM-B524C9?style=social=appveyor)](https://drive.google.com/file/d/15wm60A-89fv9iUq4C4eiM4FGL8Y57QiP/view?usp=share_link)
 - Certificate of completion of the "Web Application Security Testing" online course [![ITVDN](https://img.shields.io/badge/-ITVDN-D76921?style=social=appveyor)](https://drive.google.com/file/d/1CG6oljMGEMDi3pTc77-W-AV1wacZFblC/view?usp=share_link)
