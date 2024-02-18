@@ -4,10 +4,6 @@
 
 My main strengths are attention to detail, responsibility, organization, punctuality, creativity, and the ability to work effectively. I admire the work of the QA Engineer.
 
-### My CV 
-
-[Link to my CV](https://drive.google.com/file/d/1r1qPu6PBw40GEMVx17elAwtBxXNY7mM5/view?usp=share_link)
-
 ### Languages and Tools
 
 ![Jira](https://img.shields.io/badge/-Jira-050505?style=for-the-badge&logo=Jira&logoColor=1511A4)
